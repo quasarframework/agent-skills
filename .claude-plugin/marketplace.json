@@ -1,0 +1,20 @@
+{
+  "name": "quasar-framework-agent-skills",
+  "owner": {
+    "name": "Quasar Framework",
+    "url": "https://quasar.dev"
+  },
+  "metadata": {
+    "description": "Official Quasar Framework skills for Claude Code",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "quasar-framework-skills",
+      "description": "Build, maintain, and extend Quasar applications across every Quasar CLI mode.",
+      "version": "0.1.0",
+      "source": "./",
+      "homepage": "https://github.com/quasarframework/agent-skills"
+    }
+  ]
+}

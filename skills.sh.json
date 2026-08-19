@@ -1,0 +1,31 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Core",
+      "description": "Shared Quasar application and App Extension development workflows.",
+      "skills": ["quasar-development", "quasar-app-extension-development"]
+    },
+    {
+      "title": "Web",
+      "description": "Quasar web application modes, rendering strategies, and deployment workflows.",
+      "skills": [
+        "quasar-spa-development",
+        "quasar-ssr-development",
+        "quasar-ssg-development",
+        "quasar-pwa-development"
+      ]
+    },
+    {
+      "title": "Mobile",
+      "description": "Native mobile application development with Quasar.",
+      "skills": ["quasar-capacitor-development", "quasar-cordova-development"]
+    },
+    {
+      "title": "Desktop and Browser",
+      "description": "Desktop applications and browser extensions built with Quasar.",
+      "skills": ["quasar-electron-development", "quasar-bex-development"]
+    }
+  ]
+}

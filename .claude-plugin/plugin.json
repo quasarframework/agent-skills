@@ -1,0 +1,25 @@
+{
+  "name": "quasar-framework-skills",
+  "version": "0.1.0",
+  "description": "Official skills for building, maintaining, and extending applications with Quasar Framework.",
+  "author": {
+    "name": "Quasar Framework",
+    "url": "https://quasar.dev"
+  },
+  "homepage": "https://github.com/quasarframework/agent-skills",
+  "repository": "https://github.com/quasarframework/agent-skills",
+  "license": "MIT",
+  "keywords": [
+    "quasar",
+    "vue",
+    "spa",
+    "ssr",
+    "ssg",
+    "pwa",
+    "capacitor",
+    "cordova",
+    "electron",
+    "browser-extension"
+  ],
+  "skills": "./skills/"
+}
